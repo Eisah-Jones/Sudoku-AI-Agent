@@ -1,0 +1,180 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.cpp
+BTSolver.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.hpp
+SudokuBoard.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+ConstraintNetwork.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.hpp
+Trail.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.hpp
+utility
+-
+iostream
+-
+vector
+-
+algorithm
+-
+climits
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.cpp
+Constraint.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+vector
+-
+sstream
+-
+algorithm
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.cpp
+ConstraintNetwork.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+Constraint.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.hpp
+SudokuBoard.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp
+iostream
+-
+string
+-
+vector
+-
+sstream
+-
+algorithm
+-
+unordered_set
+-
+map
+-
+utility
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.cpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+iterator
+-
+sstream
+-
+vector
+-
+stack
+-
+utility
+-
+iostream
+-
+algorithm
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Main.cpp
+BTSolver.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.hpp
+SudokuBoard.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp
+Trail.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.hpp
+iostream
+-
+ctime
+-
+cmath
+-
+sys/types.h
+-
+sys/stat.h
+-
+dirent.h
+-
+unistd.h
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.cpp
+SudokuBoard.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+iostream
+-
+string
+-
+sstream
+-
+vector
+-
+fstream
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.cpp
+Trail.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+stack
+-
+utility
+-
+iostream
+-
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.cpp
+Variable.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp
+Domain.hpp
+/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp
+iterator
+-
+sstream
+-
+vector
+-
+stack
+-
+utility
+-
+iostream
+-
+algorithm
+-
+

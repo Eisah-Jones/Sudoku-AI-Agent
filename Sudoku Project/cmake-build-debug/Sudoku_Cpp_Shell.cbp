@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Sudoku_Cpp_Shell"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sudoku_Cpp_Shell">
+				<Option output="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug/Sudoku_Cpp_Shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sudoku_Cpp_Shell"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Sudoku_Cpp_Shell/fast">
+				<Option output="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug/Sudoku_Cpp_Shell" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include/c++/v1"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 Sudoku_Cpp_Shell/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/Eisah/Documents/College/2017-2018/Winter\ 2018/CS\ 171/Sudoku\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/BTSolver.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Constraint.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/ConstraintNetwork.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Domain.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Main.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/SudokuBoard.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Trail.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.cpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/src/Variable.hpp">
+			<Option target="Sudoku_Cpp_Shell"/>
+		</Unit>
+		<Unit filename="/Users/Eisah/Documents/College/2017-2018/Winter 2018/CS 171/Sudoku Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
